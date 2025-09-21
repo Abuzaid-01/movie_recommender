@@ -28,7 +28,7 @@ A modern, user-friendly movie recommendation system built with **Streamlit** and
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/Abuzaid-01/movie_recommender>
    cd movie_recommend
    ```
 
