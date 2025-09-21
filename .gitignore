@@ -1,0 +1,33 @@
+# Virtual Environment
+streamlit_env/
+movie_rec_env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# Environment variables
+.env
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Data files (if large)
+*.pkl
+# data/*.csv
+
+# Temporary files
+*.tmp
+*.log
